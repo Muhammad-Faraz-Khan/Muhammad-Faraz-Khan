@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
-- 👀 I am a Mechanical Engineer by profession but plan to transition to the ever evolving world of AI/ML Technologies
+- 👀 I am a Mechanical Engineer by profession looking to transition to the ever evolving world of AI/ML Technologies
 - 🌱 I’m currently learning Computer Vision & Image Processing Techniques via Matlab software
 - 💞️ I’m looking for someone to collaborate, with me, on a project that I plan to complete before 09-July-2025
 - 📫 How to reach me: contact me on my gmail id (muhammadfarazkhan96@gmail.com)
