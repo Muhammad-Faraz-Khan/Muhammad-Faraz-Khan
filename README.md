@@ -4,7 +4,7 @@
 - 💞️ I’m looking for someone to collaborate with me, on a project that I plan to complete before 09-July-2025
 - 📫 How to reach me: contact me on my gmail id (muhammadfarazkhan96@gmail.com)
 - 😄 Ajectives: Ambituous, Hardworking, Adaptable & Authentic
-- ⚡ Fun fact: I am a Certified Professional Mathworks Computer Vision Engineer, you may check (https://coursera.org/share/1eba9be43878705f1ea7343f45ca205b) 
+- ⚡ Fun fact: I am a Certified Professional Mathworks Computer Vision Engineer, you may verify (https://coursera.org/share/1eba9be43878705f1ea7343f45ca205b) 
 
 <!---
 Muhammad-Faraz-Khan/Muhammad-Faraz-Khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
