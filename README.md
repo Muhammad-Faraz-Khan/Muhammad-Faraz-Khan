@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
-- 👀 I am a Mechanical Engineer by profession who's looking to transition to AI/ML Technologies
-- 🌱 I’m currently learning Computer Vision & Image Processing Techniques via Matlab software
-- 💞️ I’m looking for someone to collaborate with me, on a project that I plan to complete by 8th August
+- 👀 I am a Mechanical Engineer pivoting towards a career in AI/ML
+- 🌱 I’m currently learning Generative AI & Agentic AI
+- 💞️ I am looking for a partner to join me on my learning journey
 - 📫 How to reach me: contact me on my gmail id (muhammadfarazkhan96@gmail.com)
 - 😄 Ajectives: Ambituous, Hardworking, Adaptable & Authentic
 - ⚡ Fun fact: I am a Certified Professional Mathworks Computer Vision Engineer, you may verify (https://coursera.org/share/1eba9be43878705f1ea7343f45ca205b) 
