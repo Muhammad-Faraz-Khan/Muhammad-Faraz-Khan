@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
-- 👀 I'm a Mechanical Engineer specializing in Physical AI and Autonomous Systems
-- 🌱 I’m currently building upon my practical skills in Embedded Linux/Systems Software
-- 👯 I’m looking to collaborate on coding projects that are on these topic
+- 👀 I'm a Mechanical Engineer specializing in Embedded Linux and Intelligent Systems
+- 🌱 I’m currently building upon my practical skills in C Programming (Roadmap - Phase 1)
+- 👯 I’m looking to collaborate on coding projects that are on the topic
 - 📫 How to reach me: drop a message on my Linkedin social
 - 😄 Adjectives: Goal-Oriented, Persistent & Professional 
 - ⚡ Fun fact: I am facinated by the core concepts of smart manufacturing which forms the Industry 4.0 framework
