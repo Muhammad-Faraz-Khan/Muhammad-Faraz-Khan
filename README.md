@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
 - 👀 I'm a Mechanical Engineer specializing in Embedded Linux and Intelligent Systems
-- 🌱 I’m currently building upon my practical skills in C++ Programming
+- 🌱 I’m currently building upon my practical skills in C++ Systems Programming
 - 👯 I’m looking to learn while collaborating on all possible smart-manufacturing/industrial-digitalization projects
 - 📫 How to reach me: drop a message on my Linkedin social
 - 😄 Adjectives: Goal-Oriented, Persistent & Professional
