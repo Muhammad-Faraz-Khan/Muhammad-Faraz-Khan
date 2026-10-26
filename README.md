@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
 - 👀 I'm a Professional Engineer specializing in Embedded Linux C++ Systems Programming
 - 🌱 I’m currently building upon my practical skills in Modern C++
-- 👯 I’m open to collaboration on a project
+- 👯 I’m open to collaborating on a project
 - 📫 How to reach me: drop a message on my Linkedin social
 - 😄 Adjectives: Diligent, Persistent & Hardworking
 - ⚡ Fun fact: I am facinated by the core concepts of smart-manufacturing which forms the Industry 4.0 framework
