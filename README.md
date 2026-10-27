@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammad-Faraz-Khan
-- 👀 I'm a Professional Engineer specializing in Embedded Linux C++ Systems Programming
+- 👀 I'm a Professional Engineer specializing in Embedded Linux Systems
 - 🌱 I’m currently building upon my practical skills in Modern C++
 - 👯 I’m open to collaborating on a project
 - 📫 How to reach me: drop a message on my Linkedin social
